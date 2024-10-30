@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 void main() => runApp(StyleQRApp());
+//
 
 class StyleQRApp extends StatelessWidget {
   @override
